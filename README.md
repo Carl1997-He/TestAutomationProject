@@ -1,2 +1,2 @@
 # TestAutomationProject
-日志error监控推送 文件比对 
+Log error monitoring push file comparison
